@@ -1,2 +1,4 @@
 ﻿  SAPWebpBox.cpp
-  SAPWebpBox.vcxproj -> C:\Users\Ahmad\Desktop\SAPWebpConverter\src\SAPWebpBox\x64\Debug\SAPWebpBox.exe
+  LINK : C:\Users\Ahmad\Desktop\New folder\SapWepbConverter\x64\Debug\SAPWebpBox.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  SAPWebpBox.vcxproj -> C:\Users\Ahmad\Desktop\New folder\SapWepbConverter\x64\Debug\SAPWebpBox.exe
